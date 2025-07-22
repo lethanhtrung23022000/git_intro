@@ -1,0 +1,1 @@
+print("xin chào lan 2")
